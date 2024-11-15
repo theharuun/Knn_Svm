@@ -1,0 +1,9 @@
+# Python cache ve derleme dosyaları
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# IDE veya editor dosyaları
+.vscode/
+.idea/
